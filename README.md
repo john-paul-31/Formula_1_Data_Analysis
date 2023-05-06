@@ -4,7 +4,7 @@
 ## Database Schema
 ![App Screenshot](https://github.com/john-paul-31/Formula_1/blob/main/ER%20Diagram.png)
 
-## Identify the Top 5 Most Successful Drivers.
+## Identify the Top 10 Most Successful Drivers.
 
 ![CTE Logo](https://img.shields.io/badge/-CTE-green) ![Window Function logo](https://img.shields.io/badge/-Window%20Function-yellow)
 
