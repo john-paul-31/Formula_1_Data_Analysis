@@ -27,7 +27,9 @@ FROM
     winners w
     JOIN drivers d ON d.driverId = w.driverId
 ORDER BY
-    Number_of_Wins DESC;
+    Number_of_Wins DESC
+LIMIT
+    10;
 ```
 ### Result
 | Driver             | Number_of_Wins |
