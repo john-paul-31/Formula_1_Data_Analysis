@@ -1,4 +1,4 @@
-# Formula 1 World Championship Data Analysis Using SQL & Tableau
+# Formula 1 World Championship Data Analysis Using SQL
 ![Logo](https://github.com/john-paul-31/Formula_1_Data_Analysis/blob/main/Logo.png)
 
 ## Database Schema
